@@ -6,7 +6,7 @@ const text1 = `
 Text2 dlya Proverki otrabotchika
 `
 const text2 = `
-Text2 dlya Proverki otrabotchika
+Text 2 dlya Proverki otrabotchika
 `
 const text3 = `
 Text3 dlya Proverki otrabotchika
